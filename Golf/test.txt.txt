@@ -1,0 +1,1 @@
+goal = (600, 600); tol = 2; start = (150, 100); g =  0.0; mu =  0.0; m =  0.0; tol =  0.0; vmax =  0.0; height =  0;
